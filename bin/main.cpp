@@ -1,4 +1,4 @@
-#include "diff.h"
+#include "../libs/diff.h"
 
 int main()
 {
